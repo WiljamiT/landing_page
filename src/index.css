@@ -8,8 +8,6 @@ b {
   font-weight: 700;
 }
 
-
-
 .banner {
   background: url("./assets/banner.svg");
   background-size: cover;
@@ -18,8 +16,6 @@ b {
   height: 100vh;
   width: 100%;
 }
-
-
 
 .banner02 {
   background: url("./assets/banner02.svg");
